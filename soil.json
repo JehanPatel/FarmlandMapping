@@ -1,0 +1,151 @@
+{
+	"soil_types": [
+		{
+			"munsell_fine": "7.5YR 3/2",
+			"munsell_color": "dark brown",
+			"water_content": "moist",
+			"color": {
+				"r": "86.51",
+				"g": "67.86",
+				"b": "54.62"
+			},
+			"indicates": [
+				"high organic matter content"
+			]
+		},
+		{
+			"munsell_fine": "7.5YR 5/2",
+			"munsell_color": "brown",
+			"water_content": "dry",
+			"color": {
+				"r": "137.19",
+				"g": "118.03",
+				"b": "103.04"
+			},
+			"indicates": [
+				"oxidation"
+			]
+		},
+		{
+			"munsell_fine": "2.5YR 5/8",
+			"munsell_color": "red",
+			"water_content": "moist",
+			"color": {
+				"r": "179.2",
+				"g": "100.96",
+				"b": "60.99"
+			},
+			"indicates": [
+				"oxidation",
+				"presence of iron oxides"
+			]
+		},
+		{
+			"munsell_fine": "2.5YR 7/8",
+			"munsell_color": "light red",
+			"water_content": "dry",
+			"color": {
+				"r": "235.59",
+				"g": "153.8",
+				"b": "110.92"
+			},
+			"indicates": [
+				"oxidation",
+				"presence of iron oxides"
+			]
+		},
+		{
+			"munsell_fine": "10YR 2/1",
+			"munsell_color": "black",
+			"water_content": "moist",
+			"color": {
+				"r": "54.93",
+				"g": "47.58",
+				"b": "40.92"
+			},
+			"indicates": [
+				"high organic matter content"
+			]
+		},
+		{
+			"munsell_fine": "7.5YR 2.5/1",
+			"munsell_color": "black",
+			"water_content": "dry",
+			"color": {
+				"r": "67.45",
+				"g": "58.15",
+				"b": "52.1"
+			},
+			"indicates": [
+				"high organic matter content"
+			]
+		},
+		{
+			"munsell_fine": "2.5YR 3/1",
+			"munsell_color": "dark reddish gray",
+			"water_content": "moist",
+			"color": {
+				"r": "81.07",
+				"g": "68.99",
+				"b": "65.05"
+			},
+			"indicates": [
+				"oxidation",
+				"presence of iron oxides"
+			]
+		},
+		{
+			"munsell_fine": "2.5YR 6/1",
+			"munsell_color": "reddish gray",
+			"water_content": "dry",
+			"color": {
+				"r": "156.82",
+				"g": "145.01",
+				"b": "140.06"
+			},
+			"indicates": [
+				"oxidation",
+				"presence of iron oxides"
+			]
+		},
+		{
+			"munsell_fine": "10YR 2/2",
+			"munsell_color": "very dark brown",
+			"water_content": "moist",
+			"color": {
+				"r": "59.93",
+				"g": "46.36",
+				"b": "32.98"
+			},
+			"indicates": [
+				"high organic matter content"
+			]
+		},
+		{
+			"munsell_fine": "7.5YR 2.5/2",
+			"munsell_color": "very dark brown",
+			"water_content": "dry",
+			"color": {
+				"r": "73.83",
+				"g": "56.39",
+				"b": "44.32"
+			},
+			"indicates": [
+				"high organic matter content"
+			]
+		},
+		{
+			"munsell_fine": "10YR 6/1",
+			"munsell_color": "light gray",
+			"water_content": "moist",
+			"color": {
+				"r": "154.8",
+				"g": "146.08",
+				"b": "136.03"
+			},
+			"indicates": [
+				"low oxygen"
+			]
+		}
+	]
+}
