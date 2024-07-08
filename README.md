@@ -65,8 +65,8 @@ Contributions are what make the open source community such an amazing place to b
 ## Authors
 
 * **Jehan Patel** - [Jehan Patel](https://github.com/JehanPatel)
-* **Neel Jain** - [Jehan Patel](https://github.com/Neel-2002)
-* **Abhinav** - [Jehan Patel](https://github.com/Abhinav4291)
-* **Akash** - [Jehan Patel](https://github.com/akashgithub427)
-* **Rakshit Pandey** - [Jehan Patel](https://github.com/rakshit1104)
+* **Neel Jain** - [Neel Jain](https://github.com/Neel-2002)
+* **Abhinav** - [Abhinav](https://github.com/Abhinav4291)
+* **Akash** - [Akash](https://github.com/akashgithub427)
+* **Rakshit Pandey** - [Rakshit Pandey](https://github.com/rakshit1104)
 
